@@ -1,5 +1,6 @@
 # Inferno-Ball-Hashcracking
 Crack 10 levels of inferno ball encrypted json files by cracking hashes
+Cloned from assignment rep https://github.com/dsmudhar/CS4400
 
 # CS4400
 ## Scripts Cheat sheet
